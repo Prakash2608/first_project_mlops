@@ -1,12 +1,14 @@
-pandas 
-numpy
+pandas
 scikit-learn
-seaborn
+numpy
+seaborn 
 flask
 mlflow==2.2.2
 dvc
+ipykernel
+xgboost
 
-# dev requirements
+# dev requirements -
 
 pytest==7.1.3
 tox==3.25.1
