@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/praka/ineuron/MLops_foundation/first_project_mlops/mlruns/0/22a2a9ce3ffd4e81bb696d35b3a6db48/artifacts
+end_time: 1722326435114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22a2a9ce3ffd4e81bb696d35b3a6db48
+run_name: stately-crow-305
+run_uuid: 22a2a9ce3ffd4e81bb696d35b3a6db48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722326430516
+status: 3
+tags: []
+user_id: praka

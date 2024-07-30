@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/praka/ineuron/MLops_foundation/first_project_mlops/mlruns/0/786e73c22b404dcba33f69033bdeb49d/artifacts
+end_time: 1722326302259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 786e73c22b404dcba33f69033bdeb49d
+run_name: colorful-snipe-628
+run_uuid: 786e73c22b404dcba33f69033bdeb49d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722326302210
+status: 4
+tags: []
+user_id: praka
